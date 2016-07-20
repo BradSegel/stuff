@@ -15,7 +15,7 @@ def regex_java_flt(candidate):
     if rst and rst.group() == candidate: isFlt = True
 
     return isFlt
-
+#new comment
 # if this file is run, run tests
 class TestforJavaLiterals(unittest.TestCase):
 
